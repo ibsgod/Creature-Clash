@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - card
+  - pond
+  - wall
+  - web
+  - dam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - HP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 2449021497
+    locked: 0
+  - name: ponds
+    uniqueID: 3269420257
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HP
+    uniqueID: 2480397137
+    locked: 0
+  - name: UI
+    uniqueID: 1894535587
+    locked: 0

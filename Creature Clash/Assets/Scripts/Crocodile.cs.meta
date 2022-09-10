@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f2cef357f475d504889a594ad818ff98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - arrobj: {instanceID: 0}
+  - arrowsprite: {instanceID: 0}
+  - sr: {instanceID: 0}
+  - arrsr: {instanceID: 0}
+  - pv: {instanceID: 0}
+  - lastcoll: {instanceID: 0}
+  - archscript: {instanceID: 0}
+  - coll: {instanceID: 0}
+  - aimsprite: {instanceID: 0}
+  - rcobj: {fileID: 8961618358395100465, guid: 8ebb9d2f21ab0e84798b037c2d329bd2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
